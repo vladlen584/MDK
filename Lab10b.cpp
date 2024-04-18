@@ -30,7 +30,7 @@ int multiplyRecursive(int a, int b)
 	}
 }
 
-// Функция умножения двух чисел без использования рекурсии
+// Функция умножения двух чисел без использования экскурсии
 int multiply(int a, int b) {
 	int result = 0;
 	for (int i = 0; i < b; i++) {
