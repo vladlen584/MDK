@@ -6,7 +6,7 @@ int multiply(int a, int b);
 
 int main()
 {
-	int a, b;
+	int a, b, v;
 	std::cout << "Введите два числа для умножения: ";
 	std::cin >> a >> b;
 
