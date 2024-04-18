@@ -1,6 +1,6 @@
-﻿#include <iostream>
+#include <iostream>
 void bubbleSort(int arr[], int n);
-
+// Ghange 
 int main()
 {
 	setlocale(LC_ALL, "Rus");
